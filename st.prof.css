@@ -1,0 +1,60 @@
+.nav-logo {
+    width: 10%;
+    margin: 0px auto;
+    text-align: center
+}
+.topn{height: 40px;}
+
+.top-form {
+    width: 26%;
+    float: right;
+    margin-bottom: 0;
+ 
+}
+.card2 {padding: 0.25rem}
+.sr{border-radius: 25px!important;
+height: 30px;
+width:150px!important}
+
+.bt{height: 30px;
+    border-radius:30%!important;
+  position: relative;left: 5px
+   
+    
+ }
+.im{border-radius: 100%;
+    width:30px;
+height: 30px;}
+.cover{height: 250px;}
+.im2{height: 180px;
+width: 180px;
+border-radius: 50%;
+position: absolute;top:160px;left: 240px;}
+.midn{padding-left: 500px;
+ background-color: white}
+.btnav{position: absolute;left: 1200px;top: 260px;border-radius: 30%}
+.bk{background-color: rgb(212, 221, 238)}
+.infor{position: relative;left: 250px;top: 30px}
+.inf{font-size: 13px;color: gray}
+.right{position: absolute;top:460px;height: 30px;left: 220px;width:100px;}
+.who{right: 5px;;}
+.im7{width: 40px;height: 40px;border-radius: 100%}
+.r{position: absolute;top:15px;left: 130px;font-size: 10px}
+.v{position: absolute;top:15px;left: 165px;font-size: 10px}
+.im7{width: 40px;height: 40px;border-radius: 100%}
+.fc{font-size: 13px ;position: absolute;top:40px;left: 60px; }
+.fcu{font-size: 7px;color: dimgray;position: absolute;left: 60px;top: 60px}
+.but{position: relative;;left:80px;bottom: 20px;border-radius: 35%;height: 35px;}
+.mn{font-size: 13px;position: absolute;top:13px}
+.mnu{font-size: 7px;color:dimgray;position: absolute;top:35px;left: 60px;}
+.fol{position: absolute;left: 500px;top: 320px}
+.user{color: gray;font-size: 13px}
+.bio{font-size:11px}
+.imb{width: 70px;height: 70px;border-radius: 50%;position: absolute;top: 100px}
+.a{position: absolute;left: 770px;top: 320px}
+.b{position: absolute;left: 1040px;top: 320px}
+.c{position: absolute;left: 1040px;top: 620px}
+.e{position: absolute;left: 770px;top: 620px}
+.f{position: absolute;left: 500px;top: 620px}
+.done{position: absolute;left:160px;top:155px;border-radius: 20%;height: 35px;}
+.done1{position: absolute;left:160px;top:145px;border-radius: 20%;height: 35px;}
