@@ -3,7 +3,6 @@
     margin: 0px auto;
     text-align: center
 }
-.topn{height: 40px;}
 
 .top-form {
     width: 26%;
@@ -12,49 +11,63 @@
  
 }
 .card2 {padding: 0.25rem}
-.sr{border-radius: 25px!important;
+.sr{border-radius: 25px;
 height: 30px;
 width:150px!important}
-
 .bt{height: 30px;
-    border-radius:30%!important;
-  position: relative;left: 5px
+    border-radius:25px;
+  position: relative;left: 0px
    
     
  }
 .im{border-radius: 100%;
     width:30px;
 height: 30px;}
-.cover{height: 250px;}
-.im2{height: 180px;
-width: 180px;
-border-radius: 50%;
-position: absolute;top:160px;left: 240px;}
-.midn{padding-left: 500px;
- background-color: white}
-.btnav{position: absolute;left: 1200px;top: 260px;border-radius: 30%}
+.im2{border-radius:50%;
+    height:70px;
+    width: 70px;
+position:absolute;top:150px;}
+.cd2{position: absolute;top:180px;left:80px
+}
+.cb{height: 130px; width: 300px;}
+.us{position:absolute;top:200px;left:80px;
+font-size: 12}
+.fl{font-size: 14;
+position: relative;top: 30px;
+padding-left: 10px}
+
 .bk{background-color: rgb(212, 221, 238)}
-.infor{position: relative;left: 250px;top: 30px}
-.inf{font-size: 13px;color: gray}
-.right{position: absolute;top:460px;height: 30px;left: 220px;width:100px;}
+.fo{position: absolute; top:250px; left: 20px;}
+.ch{font-size: 10 }
+.trend{ position: absolute;;
+top: 320px;}
+.sta{position: absolute;
+top: 60px;left: -5px;}
+.inp{left: 18px;}
+ .im3{position: absolute;
+width: 30px; height: 30;
+border-radius: 100%;
+top: 5px;left:-15px}
+.img4{height: 25rem;
+width: 30rem;}
+.first{width: 25px;}
+.mehrez{position: absolute;top:150px ;left:-5px;width: 560px;height: 430px;}
+.user{ font-size: 15px; color: darkgrey}
+.post {position: absolute; left: 50px;}
+.im5{width: 30rem}
+.im6{border-radius:50%;
+    height:50px;
+    width: 50px;
+    position:absolute;top:15px;left: 10px;}
+.art{position: absolute;top:590px ;left:-5px;width: 560px;height: 460px;}
+.right{position: absolute;top: 60px;height: 40px;}
 .who{right: 5px;;}
-.im7{width: 40px;height: 40px;border-radius: 100%}
 .r{position: absolute;top:15px;left: 130px;font-size: 10px}
 .v{position: absolute;top:15px;left: 165px;font-size: 10px}
 .im7{width: 40px;height: 40px;border-radius: 100%}
-.fc{font-size: 13px ;position: absolute;top:40px;left: 60px; }
-.fcu{font-size: 7px;color: dimgray;position: absolute;left: 60px;top: 60px}
-.but{position: relative;;left:80px;bottom: 20px;border-radius: 35%;height: 35px;}
-.mn{font-size: 13px;position: absolute;top:13px}
-.mnu{font-size: 7px;color:dimgray;position: absolute;top:35px;left: 60px;}
-.fol{position: absolute;left: 500px;top: 320px}
-.user{color: gray;font-size: 13px}
-.bio{font-size:11px}
-.imb{width: 70px;height: 70px;border-radius: 50%;position: absolute;top: 100px}
-.a{position: absolute;left: 770px;top: 320px}
-.b{position: absolute;left: 1040px;top: 320px}
-.c{position: absolute;left: 1040px;top: 620px}
-.e{position: absolute;left: 770px;top: 620px}
-.f{position: absolute;left: 500px;top: 620px}
-.done{position: absolute;left:160px;top:155px;border-radius: 20%;height: 35px;}
-.done1{position: absolute;left:160px;top:145px;border-radius: 20%;height: 35px;}
+.fc{font-size: 17px ;position: absolute;top:40px;left: 60px; }
+.fcu{font-size: 10px;color: dimgray;position: absolute;left: 60px;top: 60px}
+.but{position: relative;;left:195px;bottom: 40px;border-radius: 35%;height: 35px;}
+.mn{font-size: 17px;position: absolute;top:13px}
+.mnu{font-size: 10px;color:dimgray;position: absolute;top:35px;left: 60px;}
+
