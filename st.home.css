@@ -1,0 +1,73 @@
+.nav-logo {
+    width: 10%;
+    margin: 0px auto;
+    text-align: center
+}
+
+.top-form {
+    width: 26%;
+    float: right;
+    margin-bottom: 0;
+ 
+}
+.card2 {padding: 0.25rem}
+.sr{border-radius: 25px;
+height: 30px;
+width:150px!important}
+.bt{height: 30px;
+    border-radius:25px;
+  position: relative;left: 0px
+   
+    
+ }
+.im{border-radius: 100%;
+    width:30px;
+height: 30px;}
+.im2{border-radius:50%;
+    height:70px;
+    width: 70px;
+position:absolute;top:150px;}
+.cd2{position: absolute;top:180px;left:80px
+}
+.cb{height: 130px; width: 300px;}
+.us{position:absolute;top:200px;left:80px;
+font-size: 12}
+.fl{font-size: 14;
+position: relative;top: 30px;
+padding-left: 10px}
+
+.bk{background-color: rgb(212, 221, 238)}
+.fo{position: absolute; top:250px; left: 20px;}
+.ch{font-size: 10 }
+.trend{ position: absolute;;
+top: 320px;}
+.sta{position: absolute;
+top: 60px;left: -5px;}
+.inp{left: 18px;}
+ .im3{position: absolute;
+width: 30px; height: 30;
+border-radius: 100%;
+top: 5px;left:-15px}
+.img4{height: 25rem;
+width: 30rem;}
+.first{width: 25px;}
+.mehrez{position: absolute;top:150px ;left:-5px;width: 560px;height: 430px;}
+.user{ font-size: 15px; color: darkgrey}
+.post {position: absolute; left: 50px;}
+.im5{width: 30rem}
+.im6{border-radius:50%;
+    height:50px;
+    width: 50px;
+    position:absolute;top:15px;left: 10px;}
+.art{position: absolute;top:590px ;left:-5px;width: 560px;height: 460px;}
+.right{position: absolute;top: 60px;height: 40px;}
+.who{right: 5px;;}
+.r{position: absolute;top:15px;left: 130px;font-size: 10px}
+.v{position: absolute;top:15px;left: 165px;font-size: 10px}
+.im7{width: 40px;height: 40px;border-radius: 100%}
+.fc{font-size: 17px ;position: absolute;top:40px;left: 60px; }
+.fcu{font-size: 10px;color: dimgray;position: absolute;left: 60px;top: 60px}
+.but{position: relative;;left:195px;bottom: 40px;border-radius: 35%;height: 35px;}
+.mn{font-size: 17px;position: absolute;top:13px}
+.mnu{font-size: 10px;color:dimgray;position: absolute;top:35px;left: 60px;}
+
